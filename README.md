@@ -1,6 +1,6 @@
 ## Leitor de Markdown
 
-<p align="center">
+<p align="left">
 Esse projeto consiste em ler um arquivo markdown e extrair os links com chave valor, 
 depois disso o node obtém o statusCode de cada link para verificar se está ok ou não
 </p>
@@ -18,6 +18,6 @@ depois disso o node obtém o statusCode de cada link para verificar se está ok 
 
 ## Framework de testes
 
-<p align="center">
+<p align="left">
 Para esse projeto foi utilizada o Jest
 </p>
