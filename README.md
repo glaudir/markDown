@@ -1,9 +1,23 @@
-# markDown
+## Leitor de Markdown
 
+<p align="center">
 Esse projeto consiste em ler um arquivo markdown e extrair os links com chave valor, 
 depois disso o node obtém o statusCode de cada link para verificar se está ok ou não
+</p>
 
-Para Rodar a execução da biblioteca npm run cli validar
+## Instruções
 
-Para Rodar testes npm run test
+- [ ] Baixar os arquivos para uma máquina
+- [ ] Abrir o terminal na pasta que estão os arquivos
 
+## Comandos
+
+- [ ] Instalação : Comando <b>npm install</b>
+- [ ] Execução : Comando <b>npm run cli validar</b>
+- [ ] Testes: Comando <b>npm run test</b>
+
+## Framework de testes
+
+<p align="center">
+Para esse projeto foi utilizada o Jest
+</p>
